@@ -17,3 +17,4 @@ drawCats(10); // You can put any number here instead of 10.
 // 7 =^.^=
 // 8 =^.^=
 // 9 =^.^=
+Hello thomas
